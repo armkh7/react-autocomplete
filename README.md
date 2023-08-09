@@ -23,3 +23,15 @@ This is a simple auto-complete component implemented using React, TypeScript, an
 4. Start the development server
 
 #### `npm start`
+
+## In order you have the ZIP file
+
+1. Extract the ZIP file
+
+2. Navigate to the directory
+
+#### `cd deel-fe-test`
+
+3. Start the development server
+
+#### `npm start`
