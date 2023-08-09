@@ -8,7 +8,7 @@ This is a simple auto-complete component implemented using React, TypeScript, an
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository or extract the ZIP file
 
 #### `git clone https://github.com/armkh7/deel-fe-test.git`
 
@@ -21,17 +21,5 @@ This is a simple auto-complete component implemented using React, TypeScript, an
 #### `npm install`
 
 4. Start the development server
-
-#### `npm start`
-
-## In order you have the ZIP file
-
-1. Extract the ZIP file
-
-2. Navigate to the directory
-
-#### `cd deel-fe-test`
-
-3. Start the development server
 
 #### `npm start`
